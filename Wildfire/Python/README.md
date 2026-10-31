@@ -1,10 +1,10 @@
-# Wildfire Dataset
+# Wildfire Python Model
 
 This folder will contain:
-- Historical wildfire records
-- Temperature and humidity data
-- Wind speed and rainfall data
-- Vegetation dryness data
-- Dataset sources
+- Data preprocessing
+- Feature extraction
+- Model training
+- Model evaluation
+- Exporting trained model parameters
 
 Status: Not started.
